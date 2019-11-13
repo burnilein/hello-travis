@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/burnilein/hello-travis.svg?branch=playing)](https://travis-ci.com/burnilein/hello-travis)
+
 # HelloTravis
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
